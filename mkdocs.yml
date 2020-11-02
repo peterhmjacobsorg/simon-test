@@ -1,0 +1,8 @@
+site_name: "Simon-test"
+site_description: "A test for Simon"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
